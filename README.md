@@ -2,7 +2,7 @@
 
 I'm Kroutaz, a beginner French developer currently learning Python and JavaScript.
 
-I enjoy building anything that comes to my mind, experimenting with scripts, and learning new things every day.
+I enjoy building anything that comes to my mind, and learning new things every day.
 
 I like creating tools, testing concepts, and improving my coding skills one project at a time.
 
